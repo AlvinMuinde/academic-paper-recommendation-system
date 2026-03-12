@@ -1,0 +1,8 @@
+{
+  "base_url": "https://api.openalex.org/works",
+  "filter": "has_abstract:true,language:en,from_publication_date:2015-01-01,concepts.id:C41008148,cited_by_count:<1000",
+  "per_page": 200,
+  "pages": 5,
+  "records_extracted": 1000,
+  "seed": 42
+}

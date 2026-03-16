@@ -1,0 +1,5 @@
+Method,Time in seconds
+Lexical vector construction,0.15777587890625
+Semantic vector construction,157.7796037197113
+Lexical recommendation generation,0.0045468807220458984
+Semantic recommendation generation,0.0006084442138671875
